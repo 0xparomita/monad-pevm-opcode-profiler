@@ -1,0 +1,10 @@
+{
+  "name": "monad-pevm-opcode-profiler",
+  "version": "1.0.0",
+  "description": "Opcode-level timing analysis and concurrency tracking suite for Monad EVM",
+  "main": "profileOpcodeExecution.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5"
+  }
+}
